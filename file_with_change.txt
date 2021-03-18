@@ -3,3 +3,4 @@ Some lines on branch1 1
 Some lines on branch1 2
 Some lines on branch1 3
 Another changes 1
+Another changes 2
