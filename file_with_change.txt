@@ -1,1 +1,2 @@
 Some lines
+Some lines in branch2 1
